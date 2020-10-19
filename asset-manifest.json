@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-juego-memoria/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-juego-memoria/static/js/main.38f82f4d.chunk.js",
+    "main.js.map": "/react-juego-memoria/static/js/main.38f82f4d.chunk.js.map",
+    "runtime-main.js": "/react-juego-memoria/static/js/runtime-main.8498e3fe.js",
+    "runtime-main.js.map": "/react-juego-memoria/static/js/runtime-main.8498e3fe.js.map",
+    "static/js/2.73005641.chunk.js": "/react-juego-memoria/static/js/2.73005641.chunk.js",
+    "static/js/2.73005641.chunk.js.map": "/react-juego-memoria/static/js/2.73005641.chunk.js.map",
+    "index.html": "/react-juego-memoria/index.html",
+    "precache-manifest.32e6ec3c821c3784b1df5c279853b78c.js": "/react-juego-memoria/precache-manifest.32e6ec3c821c3784b1df5c279853b78c.js",
+    "service-worker.js": "/react-juego-memoria/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-juego-memoria/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.73005641.chunk.js.LICENSE.txt": "/react-juego-memoria/static/js/2.73005641.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-juego-memoria/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8498e3fe.js",
+    "static/js/2.73005641.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.38f82f4d.chunk.js"
+  ]
+}
